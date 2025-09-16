@@ -1,6 +1,8 @@
 {
   "customFileOrder": {
     "/": [
+      "categories",
+      "tags",
       "THREETWOA_HOME.md",
       "WeekDaily",
       "Attachment",
@@ -271,6 +273,188 @@
       "Attachment/template/weekdaily_template.md"
     ],
     "Attachment/video": [],
+    "categories": [
+      "categories/测试",
+      "categories/page",
+      "categories/syntax",
+      "categories/test",
+      "categories/test-with-whitespaces",
+      "categories/themes",
+      "categories/index.html",
+      "categories/index.xml"
+    ],
+    "categories/测试": [
+      "categories/测试/page",
+      "categories/测试/index.html",
+      "categories/测试/index.xml"
+    ],
+    "categories/测试/page": [
+      "categories/测试/page/1"
+    ],
+    "categories/测试/page/1": [
+      "categories/测试/page/1/index.html"
+    ],
+    "categories/page": [
+      "categories/page/1",
+      "categories/page/2"
+    ],
+    "categories/page/1": [
+      "categories/page/1/index.html"
+    ],
+    "categories/page/2": [
+      "categories/page/2/index.html"
+    ],
+    "categories/syntax": [
+      "categories/syntax/page",
+      "categories/syntax/index.html",
+      "categories/syntax/index.xml"
+    ],
+    "categories/syntax/page": [
+      "categories/syntax/page/1"
+    ],
+    "categories/syntax/page/1": [
+      "categories/syntax/page/1/index.html"
+    ],
+    "categories/test": [
+      "categories/test/page",
+      "categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
+      "categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash_hu_30cc804daec7a86b.jpg",
+      "categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.bec89fe99958d89413edc0f93688bdd6.jpg",
+      "categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.bec89fe99958d89413edc0f93688bdd6_hu_48d530dec33c2396.jpg",
+      "categories/test/index.html",
+      "categories/test/index.xml"
+    ],
+    "categories/test/page": [
+      "categories/test/page/1"
+    ],
+    "categories/test/page/1": [
+      "categories/test/page/1/index.html"
+    ],
+    "categories/test-with-whitespaces": [
+      "categories/test-with-whitespaces/page",
+      "categories/test-with-whitespaces/index.html",
+      "categories/test-with-whitespaces/index.xml"
+    ],
+    "categories/test-with-whitespaces/page": [
+      "categories/test-with-whitespaces/page/1"
+    ],
+    "categories/test-with-whitespaces/page/1": [
+      "categories/test-with-whitespaces/page/1/index.html"
+    ],
+    "categories/themes": [
+      "categories/themes/page",
+      "categories/themes/index.html",
+      "categories/themes/index.xml"
+    ],
+    "categories/themes/page": [
+      "categories/themes/page/1"
+    ],
+    "categories/themes/page/1": [
+      "categories/themes/page/1/index.html"
+    ],
+    "tags": [
+      "tags/css",
+      "tags/emoji",
+      "tags/html",
+      "tags/markdown",
+      "tags/page",
+      "tags/tag-with-whitespaces",
+      "tags/text",
+      "tags/themes",
+      "tags/index.html",
+      "tags/index.xml"
+    ],
+    "tags/css": [
+      "tags/css/page",
+      "tags/css/index.html",
+      "tags/css/index.xml"
+    ],
+    "tags/css/page": [
+      "tags/css/page/1"
+    ],
+    "tags/css/page/1": [
+      "tags/css/page/1/index.html"
+    ],
+    "tags/emoji": [
+      "tags/emoji/page",
+      "tags/emoji/index.html",
+      "tags/emoji/index.xml"
+    ],
+    "tags/emoji/page": [
+      "tags/emoji/page/1"
+    ],
+    "tags/emoji/page/1": [
+      "tags/emoji/page/1/index.html"
+    ],
+    "tags/html": [
+      "tags/html/page",
+      "tags/html/index.html",
+      "tags/html/index.xml"
+    ],
+    "tags/html/page": [
+      "tags/html/page/1"
+    ],
+    "tags/html/page/1": [
+      "tags/html/page/1/index.html"
+    ],
+    "tags/markdown": [
+      "tags/markdown/page",
+      "tags/markdown/index.html",
+      "tags/markdown/index.xml"
+    ],
+    "tags/markdown/page": [
+      "tags/markdown/page/1"
+    ],
+    "tags/markdown/page/1": [
+      "tags/markdown/page/1/index.html"
+    ],
+    "tags/page": [
+      "tags/page/1",
+      "tags/page/2",
+      "tags/page/3"
+    ],
+    "tags/page/1": [
+      "tags/page/1/index.html"
+    ],
+    "tags/page/2": [
+      "tags/page/2/index.html"
+    ],
+    "tags/page/3": [
+      "tags/page/3/index.html"
+    ],
+    "tags/tag-with-whitespaces": [
+      "tags/tag-with-whitespaces/page",
+      "tags/tag-with-whitespaces/index.html",
+      "tags/tag-with-whitespaces/index.xml"
+    ],
+    "tags/tag-with-whitespaces/page": [
+      "tags/tag-with-whitespaces/page/1"
+    ],
+    "tags/tag-with-whitespaces/page/1": [
+      "tags/tag-with-whitespaces/page/1/index.html"
+    ],
+    "tags/text": [
+      "tags/text/page",
+      "tags/text/index.html",
+      "tags/text/index.xml"
+    ],
+    "tags/text/page": [
+      "tags/text/page/1"
+    ],
+    "tags/text/page/1": [
+      "tags/text/page/1/index.html"
+    ],
+    "tags/themes": [
+      "tags/themes/page",
+      "tags/themes/index.html",
+      "tags/themes/index.xml"
+    ],
+    "tags/themes/page": [
+      "tags/themes/page/1"
+    ],
+    "tags/themes/page/1": [
+      "tags/themes/page/1/index.html"
+    ],
     "WeekDaily": [
       "WeekDaily/生活周记",
       "WeekDaily/2025-W36.md",

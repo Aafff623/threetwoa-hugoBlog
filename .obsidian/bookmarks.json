@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1754196296309,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1754196272826,
+          "path": "3-Skill_Plus/所拾/提效/方法论/OB_使用笔记.md",
+          "title": "Obsidian_指南-tta"
+        },
+        {
+          "type": "group",
+          "ctime": 1754196380754,
+          "items": [],
+          "title": "未命名组"
+        }
+      ],
+      "title": "工具指南"
+    }
+  ]
+}

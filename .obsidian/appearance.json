@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Blue Topaz",
+  "showRibbon": true,
+  "theme": "moonstone",
+  "accentColor": "#a361f5",
+  "enabledCssSnippets": [
+    "callout名人名言",
+    "table"
+  ],
+  "textFontFamily": "霞鹜文楷 中等,HarmonyOS Sans中等",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "monospaceFontFamily": "霞鹜文楷 GB 屏幕阅读版,Monaspace Radon",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true
+}

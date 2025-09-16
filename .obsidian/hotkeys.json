@@ -1,0 +1,150 @@
+{
+  "workspace:close-window": [],
+  "workspace:edit-file-title": [],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-focus-mode:toggle-focus-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-split": [],
+  "editor:insert-link": [],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:previous-tab": [],
+  "workspace:next-tab": [],
+  "workspace:goto-last-tab": [],
+  "app:open-help": [],
+  "editor:follow-link": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editing-toolbar:insert-callout": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editing-toolbar:editor:insert-callout": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "obsidian-hover-editor:minimize-active-popover": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
+}

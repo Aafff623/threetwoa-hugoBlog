@@ -1,0 +1,110 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "workspace:copy-path",
+      "icon": "lucide-copy",
+      "name": "复制当前文件的路径",
+      "mode": "any"
+    },
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-files",
+      "name": "在系统资源管理器中显示",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:export-pdf",
+      "icon": "lucide-arrow-big-right",
+      "name": "导出为 PDF",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "graph:open",
+      "icon": "lucide-git-fork",
+      "name": "图谱",
+      "mode": "any",
+      "color": "#1e0feb"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any",
+      "color": "#9e0dd3"
+    },
+    {
+      "id": "workspace:split-horizontal",
+      "icon": "lucide-separator-horizontal",
+      "name": "上下分屏",
+      "mode": "any",
+      "color": "#ac22d3"
+    },
+    {
+      "id": "editor:toggle-strikethrough",
+      "icon": "lucide-strikethrough",
+      "name": "添加删除线",
+      "mode": "any",
+      "color": "#e70808"
+    },
+    {
+      "id": "editor:toggle-highlight",
+      "icon": "lucide-highlighter",
+      "name": "高亮/取消高亮",
+      "mode": "any",
+      "color": "#d0a406"
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "代码块",
+      "mode": "any",
+      "color": "#12e2d5"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-style-settings:show-style-settings-leaf"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hover-editor:convert-active-pane-to-popover"
+        }
+      ],
+      "name": "设置悬浮",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "打开快速切换",
+      "打开命令面板"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

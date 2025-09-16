@@ -1,0 +1,114 @@
+{
+  "biggerIcons": "desktop",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "list",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "0-Attachment": {
+      "icon": "💫",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "1-About_me-tta": {
+      "icon": "😎",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ],
+      "color": "yellow"
+    },
+    "1-About_me-tta/Tips": {
+      "icon": "👋",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "2-Code_tta": {
+      "icon": "👾",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "3-Skill_Plus": {
+      "icon": "😼",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "3-Skill_Plus/所拾/提效/tools": {
+      "icon": "🔨",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "3-Skill_Plus/所拾/提效/tools/Excalidraw": {
+      "icon": "🎨",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "4-Survival": {
+      "icon": "⚔️",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "Attachment/template": {
+      "icon": "🕸️",
+      "unsynced": [
+        "37b133b10b0cebf0",
+        "c2c37248de8f423a",
+        "6c6fb3ca64efccca"
+      ]
+    },
+    "THREETWOA_HOME.md": {
+      "icon": "🫠"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
